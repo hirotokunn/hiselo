@@ -1,0 +1,7 @@
+body {
+font-family: 'MyWebFont';
+  src: url('LINESeedJP_OTF_Rg.woff') format('woff');
+  background: #003333;
+  color: white;
+  text-align: center;
+}
