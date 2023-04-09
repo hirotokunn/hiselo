@@ -5,3 +5,22 @@ font-family: 'MyWebFont';
   color: white;
   text-align: center;
 }
+
+.deka {
+    display: block; 
+    margin: 0 auto; 
+    position: relative; 
+    animation: uho 2s ease; 
+}
+ 
+@keyframes uho {
+    0% {
+        opacity: 0; 
+        top: 50px; /* 位置指定 */
+        size: 100px;
+    }
+    100% {
+        opacity: 1; /* 透明度指定 */
+        top: 0; /* 位置指定 */
+        size: 200px;
+    }
