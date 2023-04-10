@@ -1,14 +1,12 @@
 body {
-@font-face {
-  font-family: 'LINESeedJP';
-  src: url('https://hirotokunn.github.io/hiselo/LINESeedJP_OTF_Rg.woff')
-  }
-  
   background: #003333;
   color: white;
   text-align: center;
 }
-
+@font-face {
+  font-family: 'LINESeedJP';
+  src: url('https://hirotokunn.github.io/hiselo/LINESeedJP_OTF_Rg.woff')
+  }
 .deka {
     display: block; 
     margin: 0 auto; 
