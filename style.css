@@ -1,12 +1,13 @@
 body {
+  @font-face {
+  font-family: 'LINESeedJP';
+  src: url('https://hirotokunn.github.io/hiselo/LINESeedJP_OTF_Rg.woff')
+  }
   background: #003333;
   color: white;
   text-align: center;
 }
-@font-face {
-  font-family: 'LINESeedJP';
-  src: url('https://hirotokunn.github.io/hiselo/LINESeedJP_OTF_Rg.woff')
-  }
+
 .deka {
     display: block; 
     margin: 0 auto; 
@@ -17,11 +18,11 @@ body {
 @keyframes uho {
     0% {
         opacity: 0; 
-        top: 50px; /* 位置指定 */
+        top: 50px; 
         size: 100px;
     }
     100% {
-        opacity: 1; /* 透明度指定 */
-        top: 0; /* 位置指定 */
+        opacity: 1;
+        top: 0;
         size: 200px;
     }
