@@ -1,6 +1,9 @@
 body {
-font-family: 'LINESeedJP';
-  src: url('https://hirotokunn.github.io/hiselo/LINESeedJP_OTF_Rg.woff') format('woff');
+@font-face {
+  font-family: 'LINESeedJP';
+  src: url('https://hirotokunn.github.io/hiselo/LINESeedJP_OTF_Rg.woff')
+  }
+  
   background: #003333;
   color: white;
   text-align: center;
