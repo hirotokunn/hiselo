@@ -25,6 +25,8 @@ p {
   text-align: center;
   font-size: 35px;
   color: #676767;
+  font-weight:lighter;
+}
 }
 .frame {
   width: 90%;
