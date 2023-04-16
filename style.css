@@ -1,6 +1,10 @@
 body {
   background: #e0e5ec;
-  
+  @font-face {
+  font-family: ';
+  src: url('読み込むフォントファイルのパス') format('フォーマット名');
+}
+
 }
 h1 {
   position: relative;
