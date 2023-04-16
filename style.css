@@ -1,8 +1,9 @@
 body {
   background: #e0e5ec;
   @font-face {
-  font-family: ';
+  font-family: 'LINESeedJP';
   src: url('LINESeedJP_OTF_Bd.woff2') format('woff2');
+    font-family: hannari;
 }
 
 }
@@ -11,7 +12,7 @@ h1 {
   text-align: center;
   color: #353535;
   font-size: 50px;
-  font-family: "Cormorant Garamond", serif;
+  font-family: "LINESeedJP";
 }
 
 p {
