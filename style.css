@@ -1,6 +1,9 @@
 @font-face {
   font-family: 'LINESeedJP';
-  src: url('https://hirotokunn.github.io/hiselo/LINESeedJP_OTF_Bd.woff2') format('woff2');
+  src: url('https://hirotokunn.github.io/hiselo/fonts/LINESeedJP_OTF_Rg.woff2') format('woff2');
+  src: url('https://hirotokunn.github.io/hiselo/fonts/LINESeedJP_OTF_Th.woff2') format('woff2');
+  src: url('https://hirotokunn.github.io/hiselo/fonts/LINESeedJP_OTF_Bd.woff2') format('woff2');
+  src: url('https://hirotokunn.github.io/hiselo/fonts/LINESeedJP_OTF_Eb.woff2') format('woff2');
 }
 
 body {
